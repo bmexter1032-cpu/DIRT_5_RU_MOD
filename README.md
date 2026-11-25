@@ -3,6 +3,7 @@
 Полная русская текстовая локализация DIRT 5 для ПК с оригинальной английской озвучкой.
 
 [![Скачать русификатор](https://img.shields.io/badge/Скачать_русификатор-12.1_МБ-brightgreen?style=for-the-badge&logo=github)](https://github.com/bmexter1032-cpu/DIRT_5_RU_MOD/releases/download/v1.0.0-rc.4/DIRT_5_RU_MOD_1.0.0-rc.4_Windows.zip)
+![Русский интерфейс DIRT 5](04_event_settings.png)
 
 ## О русификаторе
 
